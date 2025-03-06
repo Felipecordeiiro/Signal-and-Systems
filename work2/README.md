@@ -32,7 +32,6 @@ Input #0, wav, from 'audio_female.wav':
 - Taxa de amostragem: 22050 Hz
 - Duração: 13.63s
 
-# Arquivo .py
+# Notebook
 
-Segue o arquivo ```.py``` com os imports e funções necessárias para a 
-realização da atividade. 
+Segue o arquivo ```.ipynb``` com os imports e funções necessárias para a realização da atividade. 
